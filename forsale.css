@@ -1,0 +1,35 @@
+#src1{
+    width: 800px;
+    height: 500px;
+}#src2{
+    width: 800px;
+    height: 500px;
+}#src3{
+    width: 800px;
+    height: 500px;
+}#src4{
+    width: 800px;
+    height: 500px;
+}#src5{
+    width: 800px;
+    height: 500px;
+}#src6{
+    width: 800px;
+    height: 500px;
+}#src7{
+    width: 800px;
+    height: 500px;
+}#src8{
+    width: 800px;
+    height: 500px;
+}
+body{
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    text-align: center;
+}
+hr{
+    border: 1px solid black;
+}
